@@ -1,6 +1,3 @@
-# pyinstalller --onefile [filename].py
-import m3u8_To_MP4
-
 from classes.episode_downloader import EpisodeDownloader
 from classes.file_attribs import FileAttribs
 from classes.file_loader import FileLoader
